@@ -13,7 +13,7 @@ I'm a quick learner with a perfect analytical mindset and problem solving skills
 
 - Linux(Ubuntu), Docker, Kubernities
 
-- PhotoShop, Flash, DreamWeaver
+- Adobe PhotoShop, Adobe Flash, DreamWeaver
 
-- Visul Basic, Ms Office, 
+- Visual Basic, Ms Office, 
 
