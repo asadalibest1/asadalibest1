@@ -4,12 +4,14 @@ This is Asad Ali. An innovative Web developer. I am passionate all the way with 
 ## EXPERIENCE AND STATUS<br />
 
 :heavy_check_mark: Working on front-end widgets using deferent libraries with React such as react-routing, react-redux, firebase Material UI
-Express JS and further practice is going on  
+Express JS and further practice is going on
+
 :heavy_check_mark: 2+ years of overall experience in MERN STACK DEVELOPMENT. I can develop web applications and products according to client
-briefs and modify designs to meet changes in client specifications.  
-:heavy_check_mark: Currently, I am under training in Freelance and Remote Work Bootcamp 2020. An internship and Career developing  
+briefs and modify designs to meet changes in client specifications.
+
+:heavy_check_mark: Currently, I am under training in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
 opportunity in which we are studying and applying Front-end technologies, Progressive web Applications, JAMS-Stack and, AI
-integration.  
+integration etc.  
 
 ## My core skills included,
 
@@ -17,5 +19,5 @@ integration.
 **Web Design:** &emsp;&emsp;&emsp;CSS, &ensp; SCSS, &ensp; Material UI, &ensp; Bootstrap, &ensp; Micromedia DreamWeaver.    
 **Back-End:** &emsp; &emsp; &emsp; &ensp;Node JS, &ensp; Express JS, &ensp; MongoDB(learning).  
 **Graphic Design:** &emsp;&ensp;Adobe Photoshop, &ensp; Macromedia Flash 8.  
-**Cloud Computing:** &nbsp;Linux(Ubuntu), &ensp; Docker, &ensp; Kubernetes.  
+**Cloud Computing:** &nbsp;Linux(Ubuntu), &ensp; Docker, &ensp; Kubernetes etc.  
 **Other Services:** &emsp; &ensp;Microsoft Office, &ensp; &ensp; Microsoft Visual Basic.
