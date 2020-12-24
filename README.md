@@ -3,14 +3,9 @@ This is Asad Ali. An innovative Web developer. I am passionate all the way with 
 
 ### My core skills included,
 
-**Front-End:** HTML, JavaScript/ES6, TypeScript, React JS(Stateless Component), GraphQL.
-
-**Web Design:** CSS, SCSS, Material UI, Bootstrap, Micromedia DreamWeaver.
-
-**Back-End:** Node JS, Express JS, MongoDB(learning).
-
-**Graphic Design:** Adobe Photoshop, Adobe Flash.
-
-**Cloud Computing:** Linux(Ubuntu), Docker , Kubernetes.
-
-**Other Services:** Microsoft Office, Microsoft Visual Basic.
+**Front-End:** &emsp;&emsp;&emsp; &ensp; HTML,  JavaScript/ES6, TypeScript, React JS(Stateless Component),  GraphQL.    
+**Web Design:** &emsp;&emsp;&emsp;CSS, SCSS, Material UI, Bootstrap, Micromedia DreamWeaver.</pre>  
+**Back-End:** &emsp; &emsp; &emsp; &ensp;Node JS, Express JS, MongoDB(learning).  
+**Graphic Design:** &emsp;&ensp;Adobe Photoshop, Adobe Flash.  
+**Cloud Computing:** &nbsp;Linux(Ubuntu), Docker , Kubernetes.  
+**Other Services:** &emsp; &ensp;Microsoft Office, Microsoft Visual Basic.
