@@ -9,15 +9,14 @@ Express JS and further practice is going on
 :heavy_check_mark: 2+ years of overall experience in MERN STACK DEVELOPMENT. I can develop web applications and products according to client
 briefs and modify designs to meet changes in client specifications.
 
-:heavy_check_mark: Currently, I am under training in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
-opportunity in which we are studying and applying Front-end technologies, Progressive web Applications, JAMS-Stack and, AI
-integration etc.  
+:heavy_check_mark: I have 12 months experince in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
+opportunity in which we studded and applied Front-end Technologies. Currently,  I am working in a software company known as [Solution Hub](https://solutionhub.com.pk/).
 
 ## My core skills included,
 
-**Front-End:** &emsp;&emsp;&emsp; &ensp; HTML, &ensp; JavaScript/ES6, &ensp; TypeScript, &ensp; React JS(Stateless Component), &ensp; GraphQL.    
-**Web Design:** &emsp;&emsp;&emsp;CSS, &ensp; SCSS, &ensp; Material UI, &ensp; Bootstrap, &ensp; Micromedia DreamWeaver.    
-**Back-End:** &emsp; &emsp; &emsp; &ensp;Node JS, &ensp; Express JS, &ensp; MongoDB(learning).  
+**Front-End:** &emsp;&emsp;&emsp; &ensp; HTML, &ensp; JavaScript/ES6, &ensp; TypeScript, &ensp; React JS, &ensp; React Native &ensp; GraphQL, &ensp; Laravel.    
+**Web Design:** &emsp;&emsp;&emsp;CSS, &ensp; SCSS, &ensp; Material UI, &ensp; Bootstrap, &ensp; WordPress, &ensp; Micromedia DreamWeaver.    
+**Back-End:** &emsp; &emsp; &emsp; &ensp;Node JS, &ensp; Express JS, &ensp; MongoDB.  
 **Graphic Design:** &emsp;&ensp;Adobe Photoshop, &ensp; Macromedia Flash 8.  
 **Cloud Computing:** &nbsp;Linux(Ubuntu), &ensp; Docker, &ensp; Kubernetes etc.  
 **Other Services:** &emsp; &ensp;Microsoft Office, &ensp; &ensp; Microsoft Visual Basic.
