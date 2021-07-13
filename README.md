@@ -3,14 +3,16 @@ This is Asad Ali. An innovative Web developer. I am passionate all the way with 
 
 ## EXPERIENCE AND STATUS<br />
 
-:heavy_check_mark: Working on front-end widgets using deferent libraries with React such as react-routing, react-redux, firebase Material UI
-Express JS and further practice is going on
+:heavy_check_mark: 2.5+ years of overall experience in MERN Stack Web Development.
 
-:heavy_check_mark: 2+ years of overall experience in MERN STACK DEVELOPMENT. I can develop web applications and products according to client
+:heavy_check_mark: I can develop web and mobile app applications and products according to client
 briefs and modify designs to meet changes in client specifications.
 
 :heavy_check_mark: I have 12 months experince in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
-opportunity in which we studded and applied Front-end Technologies. Currently,  I am working in a software company known as [Solution Hub](https://solutionhub.com.pk/).
+opportunity in which we studded and applied Front-end Technologies.
+
+
+:heavy_check_mark: Currently,  I am working in a software company known as [Solution Hub](https://solutionhub.com.pk/).
 
 ## My core skills included,
 
