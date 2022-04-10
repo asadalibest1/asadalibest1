@@ -1,5 +1,15 @@
+<a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="asad ali" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/whatsapp.png" alt="asad ali" width="25px" /></a>
+<a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="asad ali" width="22px" /></a>
+  <a href="">
+  <img align="left" alt="asad ali Telegram" width="22px" src="icons/telegram.svg" />
+</a>
+<a href="" target="blank"><img align="left" src="icons/facebook.svg" alt="asad ali" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/instagram.svg" alt="asad ali" width="22px" /></a>
+<br />
+
 ## Hi there 👋
-This is Asad Ali. An innovative Web developer. I am passionate all the way with web development and cloud computing technologies Backend development & deployment. I have Excellent skills for building fully functional responsive Websites on Business Requirements using advance React and other latest web technologies to produce the best results Required. I'm a quick learner with a perfect analytical mindset and problem solving skills and always working on my programming strengths and finding more good strategies. Challenges are always accepted. I am highly enthusiastic and always ready to learn the skills with contemporary needs of IT industries
+>*This is Asad Ali. An innovative Web developer. I am passionate all the way with web development and cloud computing technologies Backend development & deployment. I have Excellent skills for building fully functional responsive Websites on Business Requirements using advance React and other latest web technologies to produce the best results Required. I'm a quick learner with a perfect analytical mindset and problem solving skills and always working on my programming strengths and finding more good strategies. Challenges are always accepted. I am highly enthusiastic and always ready to learn the skills with contemporary needs of IT industries*
 
 ## EXPERIENCE AND STATUS<br />
 
