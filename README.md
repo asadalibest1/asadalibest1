@@ -22,12 +22,12 @@ briefs and modify designs to meet changes in client specifications.
 * 👨‍💻 12 months experince in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
 opportunity in which we studded and applied Front-end Technologies.
 
-### My Careeer 📕
+### Careeer 📕
 
-<p> Former, Junior MERN Stack Web Developer at <a href="" target="blank"><img align="center" src="icons/sl.png" alt="asad ali" width="26px" />SolutionHub</a></p>
+✔️ Former, Junior MERN Stack Web Developer at <a href="" target="blank"><img align="center" src="icons/sl.png" alt="asad ali" width="26px" />SolutionHub</a>
 
 
-<p>Currently,  I am working in a software company known as <a href="" target="blank"><img align="center" src="icons/hp.png" alt="asad ali" width="26px" />HashPotato</a></p>
+✔️ Currently,  I am working in a software company known as <a href="" target="blank"><img align="center" src="icons/hp.png" alt="asad ali" width="26px" />HashPotato</a>
 
 ### My core skills included,
 
