@@ -31,6 +31,20 @@ opportunity in which we studded and applied Front-end Technologies.
 
 ### My core skills included,
 
+<h2 align="center">Front-End</h2>
+
+
+<div align="center" style="text-align: center; background-color: red;">
+&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="icons/html.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="icons/js.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="icons/ts.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="icons/React.webp" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="icons/gql.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="icons/laravel.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+</div>
+
+
+
 **Front-End:** &emsp;&emsp;&emsp; &ensp; HTML, &ensp; JavaScript/ES6, &ensp; TypeScript, &ensp; React JS, &ensp; React Native &ensp; GraphQL, &ensp; Laravel.    
 **Web Design:** &emsp;&emsp;&emsp;CSS, &ensp; SCSS, &ensp; Material UI, &ensp; Bootstrap, &ensp; WordPress, &ensp; Micromedia DreamWeaver.    
 **Back-End:** &emsp; &emsp; &emsp; &ensp;Node JS, &ensp; Express JS, &ensp; MongoDB.  
