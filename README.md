@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://www.linkedin.com/in/asad-ali-14bab11b2/" target="blank"><img align="left" src="icons/linkedin.svg" alt="asad ali" width="22px" /></a>
-<a href="whatsapp:contact=015555555555@s.whatsapp.com&message='I'd like to chat with you'" target="blank"><img align="left" src="icons/whatsapp.png" alt="asad ali" width="25px" /></a>
+<a href="https://wa.me/+923181038402?text=[I'd like to chat with you]" target="blank"><img align="left" src="icons/whatsapp.png" alt="asad ali" width="25px" /></a>
 <a href="https://t.me/asadalibest1"><img align="left" alt="asad ali Telegram" width="22px" src="icons/telegram.svg" /></a>
 <a href="https://www.facebook.com/profile.php?id=100073096834153" target="blank"><img align="left" src="icons/facebook.svg" alt="asad ali" width="22px" /></a>
 <a href="https://www.instagram.com/asadali48245/" target="blank"><img align="left" src="icons/instagram.svg" alt="asad ali" width="22px" /></a>
