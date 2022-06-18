@@ -36,7 +36,8 @@ opportunity in which we studded and applied Front-end Technologies.
 &nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/js.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="icons/ts.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="icons/React.webp" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://graphql.org/learn/" target="blank"><img align="center" src="icons/gql.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://nextjs.org/" target="blank"><img align="center" src="icons/nextpng.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://angular.io/" target="blank"><img align="center" src="icons/angular.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://laravel.com/" target="blank"><img align="center" src="icons/laravel.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 </div>
 
