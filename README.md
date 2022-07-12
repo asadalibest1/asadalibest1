@@ -48,12 +48,23 @@ opportunity in which we studded and applied Front-end Technologies.
 
 <h2 align="center">Back-End</h2>
 <div align="center" style="text-align: center; background-color: red;">
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="50" /></a>&nbsp;
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="40" /></a>&nbsp;
 &nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/express.png" alt="asad ali" width="85" /></a>&nbsp;
 <a href="https://html.com/" target="blank"><img align="center" src="icons/mongodb.png" alt="asad ali" width="100" /></a>&nbsp;&nbsp;
 </div>
 
-    
-**Graphic Design:** &emsp;&ensp;Adobe Photoshop, &ensp; Macromedia Flash 8.  
-**Cloud Computing:** &nbsp;Linux(Ubuntu), &ensp; Docker, &ensp; Kubernetes.  
-**Other Services:** &emsp; &ensp;Microsoft Office, &ensp; &ensp; Microsoft Visual Basic.
+<h2 align="center">Cloud Computing</h2>
+<div align="center" style="text-align: center; background-color: red;">
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/ubuntu.ico" alt="asad ali" width="45" /></a>&nbsp;&nbsp;
+&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/firebase.webp" alt="asad ali" width="50" /></a>&nbsp;
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/docker.png" alt="asad ali" width="60" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/Kubernetes.png" alt="asad ali" width="47" /></a>&nbsp;&nbsp;
+</div>
+
+<h2 align="center">Others</h2>
+<div align="center" style="text-align: center; background-color: red;">
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/ps.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/flash.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/office.png" alt="asad ali" width="42" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/vb.png" alt="asad ali" width="53" /></a>&nbsp;&nbsp;
+</div>
