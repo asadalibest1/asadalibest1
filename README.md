@@ -26,7 +26,7 @@ opportunity in which we studded and applied Front-end Technologies.
 
 ✔️ Currently,  I am working in a software company known as <a href="" target="blank"><img align="center" src="icons/hp.png" alt="asad ali" width="26px" />HashPotato</a>
 
-### My core skills included,
+### Techs,
 
 <h2 align="center">Front-End</h2>
 <div align="center" style="text-align: center; background-color: red;">
