@@ -29,23 +29,31 @@ opportunity in which we studded and applied Front-end Technologies.
 ### My core skills included,
 
 <h2 align="center">Front-End</h2>
-
-
 <div align="center" style="text-align: center; background-color: red;">
 &nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/html.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/css.png" alt="asad ali" width="50" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/scss.png" alt="asad ali" width="50" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/js.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="icons/ts.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="icons/React.webp" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://nextjs.org/" target="blank"><img align="center" src="icons/nextpng.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="icons/rn2.png" alt="asad ali" width="43" /></a>&nbsp;
+&nbsp;&nbsp;<a href="https://laravel.com/" target="blank"><img align="center" src="icons/nextpng.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="icons/bootstrap.svg" alt="asad ali" width="37" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://nextjs.org/" target="blank"><img align="center" src="icons/material-ui.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://nextjs.org/" target="blank"><img align="center" src="icons/tailwind.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://angular.io/" target="blank"><img align="center" src="icons/angular.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://laravel.com/" target="blank"><img align="center" src="icons/laravel.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://laravel.com/" target="blank"><img align="center" src="icons/d.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
 </div>
 
+<h2 align="center">Back-End</h2>
+<div align="center" style="text-align: center; background-color: red;">
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="50" /></a>&nbsp;
+&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/express.png" alt="asad ali" width="85" /></a>&nbsp;
+<a href="https://html.com/" target="blank"><img align="center" src="icons/mongodb.png" alt="asad ali" width="100" /></a>&nbsp;&nbsp;
+</div>
 
-
-**Front-End:** &emsp;&emsp;&emsp; &ensp; HTML, &ensp; JavaScript/ES6, &ensp; TypeScript, &ensp; React JS, &ensp; React Native &ensp; GraphQL, &ensp; Laravel.    
-**Web Design:** &emsp;&emsp;&emsp;CSS, &ensp; SCSS, &ensp; Material UI, &ensp; Bootstrap, &ensp; WordPress, &ensp; Micromedia DreamWeaver.    
-**Back-End:** &emsp; &emsp; &emsp; &ensp;Node JS, &ensp; Express JS, &ensp; MongoDB.  
+    
 **Graphic Design:** &emsp;&ensp;Adobe Photoshop, &ensp; Macromedia Flash 8.  
 **Cloud Computing:** &nbsp;Linux(Ubuntu), &ensp; Docker, &ensp; Kubernetes.  
 **Other Services:** &emsp; &ensp;Microsoft Office, &ensp; &ensp; Microsoft Visual Basic.
