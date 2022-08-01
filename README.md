@@ -16,7 +16,7 @@
 * 🏆 Develop web and mobile app applications and products according to client
 briefs and modify designs to meet changes in client specifications.
 
-* 👨‍💻 12 months experince in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
+* 👨‍💻 12 months experience in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
 opportunity in which we studded and applied Front-end Technologies.
 
 ### Careeer 📕
@@ -49,7 +49,9 @@ opportunity in which we studded and applied Front-end Technologies.
 <h2 align="center">Back-End</h2>
 <div align="center" style="text-align: center; background-color: red;">
 &nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="40" /></a>&nbsp;
-&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/express.png" alt="asad ali" width="85" /></a>&nbsp;
+&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/
+
+ress.png" alt="asad ali" width="85" /></a>&nbsp;
 <a href="https://html.com/" target="blank"><img align="center" src="icons/mongodb.png" alt="asad ali" width="100" /></a>&nbsp;&nbsp;
 </div>
 
