@@ -21,13 +21,13 @@ opportunity in which we studded and applied Front-end Technologies.
 
 ### Portfolio :briefcase:
 
-✔️ Corporate website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Landing pages
+&nbsp;&nbsp;✔️ Corporate website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Landing pages
 
-✔️ Ecommerce website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Quiz Game
+&nbsp;&nbsp;✔️ Ecommerce website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Quiz Game
 
-✔️ Educational - courses website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Health - Covide19 tracking website
+&nbsp;&nbsp;✔️ Educational - courses website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Health - Covide19 tracking website
 
-✔️ Portfolio website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Video streaming website
+&nbsp;&nbsp;✔️ Portfolio website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Video streaming website
 
 
 ### Careeer 📕
@@ -59,18 +59,18 @@ opportunity in which we studded and applied Front-end Technologies.
 
 <h2 align="center">Back-End</h2>
 <div align="center" style="text-align: center; background-color: red;">
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/sol.png" alt="asad ali" width="27" /></a>&nbsp;
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="40" /></a>&nbsp;
-&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/express.png" alt="asad ali" width="85" /></a>&nbsp;
-<a href="https://html.com/" target="blank"><img align="center" src="icons/mongodb.png" alt="asad ali" width="100" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/sol.png" alt="asad ali" width="27" /></a>&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="40" /></a>&nbsp;
+&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/express.png" alt="asad ali" width="85" /></a>&nbsp;
+<a href="javascript:void(0)" target="blank"><img align="center" src="icons/mongodb.png" alt="asad ali" width="100" /></a>&nbsp;&nbsp;
 </div>
 
 <h2 align="center">Cloud Computing</h2>
 <div align="center" style="text-align: center; background-color: red;">
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/ubuntu.ico" alt="asad ali" width="45" /></a>&nbsp;&nbsp;
-&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/firebase.webp" alt="asad ali" width="50" /></a>&nbsp;
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/docker.png" alt="asad ali" width="60" /></a>&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/Kubernetes.png" alt="asad ali" width="47" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/ubuntu.ico" alt="asad ali" width="45" /></a>&nbsp;&nbsp;
+&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/firebase.webp" alt="asad ali" width="50" /></a>&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/docker.png" alt="asad ali" width="60" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/Kubernetes.png" alt="asad ali" width="47" /></a>&nbsp;&nbsp;
 </div>
 
 <h2 align="center">Others</h2>
