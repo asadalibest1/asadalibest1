@@ -59,6 +59,7 @@ opportunity in which we studded and applied Front-end Technologies.
 
 <h2 align="center">Back-End</h2>
 <div align="center" style="text-align: center; background-color: red;">
+&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/sol.png" alt="asad ali" width="27" /></a>&nbsp;
 &nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/node2.png" alt="asad ali" width="40" /></a>&nbsp;
 &nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/express.png" alt="asad ali" width="85" /></a>&nbsp;
 <a href="https://html.com/" target="blank"><img align="center" src="icons/mongodb.png" alt="asad ali" width="100" /></a>&nbsp;&nbsp;
