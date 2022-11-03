@@ -75,8 +75,8 @@ opportunity in which we studded and applied Front-end Technologies.
 
 <h2 align="center">Others</h2>
 <div align="center" style="text-align: center; background-color: red;">
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/ps.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://html.com/" target="blank"><img align="center" src="icons/flash.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/office.png" alt="asad ali" width="42" /></a>&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://www.javascript.com/" target="blank"><img align="center" src="icons/vb.png" alt="asad ali" width="53" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/ps.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/flash.png" alt="asad ali" width="40" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/office.png" alt="asad ali" width="42" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="javascript:void(0)" target="blank"><img align="center" src="icons/vb.png" alt="asad ali" width="53" /></a>&nbsp;&nbsp;
 </div>
