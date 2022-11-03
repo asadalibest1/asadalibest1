@@ -11,20 +11,31 @@
 
 ### I have...<br />
 
-* 🥉 3.5+ years of overall Experience in MERN Stack Web Development.
+* 🥉 2.5+ years of experience in MERN Stack Web Development.
 
 * 🏆 Develop web and mobile app applications and products according to client
 briefs and modify designs to meet changes in client specifications.
 
-* 👨‍💻 12 months experience in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
+* 👨‍💻 1+ years of experience in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
 opportunity in which we studded and applied Front-end Technologies.
+
+### Portfolio :briefcase:
+
+✔️ Corporate website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Landing pages
+
+✔️ Ecommerce website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Quiz Game
+
+✔️ Educational - courses website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Health - Covide19 tracking website
+
+✔️ Portfolio website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Video streaming website
+
 
 ### Careeer 📕
 
-✔️ Former, Junior MERN Stack Web Developer at <a href="" target="blank"><img align="center" src="icons/sl.png" alt="asad ali" width="26px" />SolutionHub</a>
+:star2: Former, Junior MERN Stack Web Developer at <a href="" target="blank"><img align="center" src="icons/sl.png" alt="asad ali" width="26px" />SolutionHub</a>
 
 
-✔️ Currently,  I am working in a software company known as <a href="" target="blank"><img align="center" src="icons/hp.png" alt="asad ali" width="26px" />HashPotato</a>
+:star2: Currently,  I am working in a software company known as <a href="" target="blank"><img align="center" src="icons/hp.png" alt="asad ali" width="26px" />HashPotato</a>
 
 ### Techs...
 
