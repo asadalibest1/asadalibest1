@@ -11,9 +11,9 @@
 
 ### I have...<br />
 
-* 🥉 2.5+ years of experience in MERN Stack Web Development.
+* 🥉 2.5+ years of experience React & React Native Development.
 
-* 🏆 Develop web and mobile app applications and products according to client
+* 🏆 Develop web and mobile app base products according to the client
 briefs and modify designs to meet changes in client specifications.
 
 * 👨‍💻 1+ years of experience in [Freelance and Remote Work Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/?fbclid=IwAR12wYtzgr_YgBK3i92HJbvopK-f1BdJj_N87Rl2A2CfnoOUcMNoRexV_Gg). An internship and Career developing  
