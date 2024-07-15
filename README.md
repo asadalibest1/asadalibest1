@@ -7,11 +7,16 @@
 <a href="https://www.instagram.com/asadali48245/" target="blank"><img align="left" src="icons/instagram.svg" alt="asad ali" width="22px" /></a>
 <br />
 
->*This is Asad Ali. An innovative Web developer. I am passionate all the way with web development and cloud computing technologies Backend development & deployment. I have Excellent skills for building fully functional responsive Websites on Business Requirements using advance React and other latest web technologies to produce the best results Required. I'm a quick learner with a perfect analytical mindset and problem solving skills and always working on my programming strengths and finding more good strategies. Challenges are always accepted. I am highly enthusiastic and always ready to learn the skills with contemporary needs of IT industries*
+>*I am passionate all the way with MERN Stack Development since last 3 years, familiar with Blockchain and its
+integration, Backend development, leveraging cloud computing for scalability and deployment. I have the skills to
+build fully functional, responsive applications tailored to user requirements using React, React Native, and other
+modern web technologies. I'm a quick learner with a perfect analytical mindset, Challenges are always accepted,
+always working on my programming strengths and finding more good strategies. I am highly enthusiastic and always
+ready to learn new skills with the contemporary needs of IT industries.*
 
 ### I have...<br />
 
-* 🥉 2.5+ years of experience React & React Native Development.
+* 🥉 3+ years of experience React JS, React Native & Node JS Development.
 
 * 🏆 Develop web and mobile app base products according to the client
 briefs and modify designs to meet changes in client specifications.
@@ -27,7 +32,7 @@ opportunity in which we studded and applied Front-end Technologies.
 
 &nbsp;&nbsp;✔️ Educational - courses website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Health - Covide19 tracking website
 
-&nbsp;&nbsp;✔️ Portfolio website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Video streaming website
+&nbsp;&nbsp;✔️ Portfolio website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Admin Panels
 
 
 ### Careeer 📕
